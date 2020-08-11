@@ -4,7 +4,7 @@ Lecture Slides: https://slides.com/dmweb/javascript-4
 
 Mini Project: https://github.com/DevMountain/vanillajs-2-afternoon
 
-Afternoon Project: https://github.com/DevMountain/vanillajs-2-afternoon
+Afternoon Project: https://github.com/DevMountain/vanillajs-1-afternoon
 
 # Student Learning Objectives
 
